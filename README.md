@@ -11,6 +11,7 @@ Welcome to **NGR Predictions** — your trusted platform for highly accurate foo
   - Deluxe Package
   - Premier Package
 - 💳 Accepts payments in:
+- PayPal, Visa and Cryptocurrency 
   - USDT
   - XRP
   - USDC
@@ -28,7 +29,7 @@ Visit: [https://ngrprediction.com](https://ngrprediction.com)
 
 ## 📧 Contact
 
-- Email: mdquizcorner524@gmail.com
+- Email: support@ngrprediction.com/info@ngrprediction.com
 
 ---
 
